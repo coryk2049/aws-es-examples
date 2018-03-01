@@ -1,0 +1,4 @@
+elasticsearch
+requests-aws4auth
+requests
+
